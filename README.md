@@ -1,16 +1,12 @@
 # finance_tracker
 
-A new Flutter project.
+Welcome
+This App is made by Wout Deleu and Elian Vantomme as a school project for KU Leuven (subject: Mobile Application)!
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+As students, we are constantly watching our weekly budget, but it's not always easy to keep track of your spendings. That's why we decided to build an app to help you keep track on what you weekly spend. You can add expenses, add bills, and divide them into categories."
 
-A few resources to get you started if this is your first Flutter project:
+Enjoy, 
+Elian & Wout"
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Disclaimer: this app is still under construction, and might be containing a few bugs",
